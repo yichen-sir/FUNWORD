@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "word": "ability",
+    "meaning": "能力，才能",
+    "example_sentence": "She has the ability to learn languages quickly."
+  },
+  {
+    "id": 2,
+    "word": "absolute",
+    "meaning": "绝对的，完全的",
+    "example_sentence": "I have absolute confidence in our team."
+  },
+  {
+    "id": 3,
+    "word": "academic",
+    "meaning": "学术的，学业的",
+    "example_sentence": "He achieved great academic success in college."
+  },
+  {
+    "id": 4,
+    "word": "accept",
+    "meaning": "接受，认可",
+    "example_sentence": "Please accept my sincere apologies."
+  },
+  {
+    "id": 5,
+    "word": "access",
+    "meaning": "进入，接近，使用权",
+    "example_sentence": "Students have access to the library 24 hours a day."
+  },
+  {
+    "id": 6,
+    "word": "accident",
+    "meaning": "事故，意外",
+    "example_sentence": "The car accident happened on a rainy night."
+  },
+  {
+    "id": 7,
+    "word": "according",
+    "meaning": "根据，按照",
+    "example_sentence": "According to the weather report, it will rain tomorrow."
+  },
+  {
+    "id": 8,
+    "word": "account",
+    "meaning": "账户，解释",
+    "example_sentence": "I need to check my bank account balance."
+  },
+  {
+    "id": 9,
+    "word": "achieve",
+    "meaning": "达到，实现",
+    "example_sentence": "With hard work, you can achieve your dreams."
+  },
+  {
+    "id": 10,
+    "word": "across",
+    "meaning": "穿过，横过",
+    "example_sentence": "The bridge goes across the river."
+  },
+  {
+    "id": 11,
+    "word": "activity",
+    "meaning": "活动，行为",
+    "example_sentence": "Physical activity is important for good health."
+  },
+  {
+    "id": 12,
+    "word": "actually",
+    "meaning": "实际上，事实上",
+    "example_sentence": "I thought he was angry, but actually he was just tired."
+  },
+  {
+    "id": 13,
+    "word": "address",
+    "meaning": "地址，演讲",
+    "example_sentence": "What's your home address?"
+  },
+  {
+    "id": 14,
+    "word": "adult",
+    "meaning": "成年人，成人的",
+    "example_sentence": "Children must be accompanied by an adult."
+  },
+  {
+    "id": 15,
+    "word": "advantage",
+    "meaning": "优势，好处",
+    "example_sentence": "One advantage of living in the city is convenience."
+  },
+  {
+    "id": 16,
+    "word": "adventure",
+    "meaning": "冒险，奇遇",
+    "example_sentence": "Their trip to the mountains was a real adventure."
+  },
+  {
+    "id": 17,
+    "word": "affect",
+    "meaning": "影响，感动",
+    "example_sentence": "The weather can affect your mood."
+  },
+  {
+    "id": 18,
+    "word": "afraid",
+    "meaning": "害怕的，恐惧的",
+    "example_sentence": "Don't be afraid to ask questions."
+  },
+  {
+    "id": 19,
+    "word": "against",
+    "meaning": "反对，对抗",
+    "example_sentence": "I'm against smoking in public places."
+  },
+  {
+    "id": 20,
+    "word": "agreement",
+    "meaning": "协议，同意",
+    "example_sentence": "We finally reached an agreement on the contract."
+  },
+  {
+    "id": 21,
+    "word": "agriculture",
+    "meaning": "农业，农学",
+    "example_sentence": "Agriculture is the foundation of the country's economy."
+  },
+  {
+    "id": 22,
+    "word": "aircraft",
+    "meaning": "飞机，航空器",
+    "example_sentence": "The aircraft landed safely despite the storm."
+  },
+  {
+    "id": 23,
+    "word": "allow",
+    "meaning": "允许，准许",
+    "example_sentence": "Smoking is not allowed in this building."
+  },
+  {
+    "id": 24,
+    "word": "almost",
+    "meaning": "几乎，差不多",
+    "example_sentence": "It's almost midnight, we should go home."
+  },
+  {
+    "id": 25,
+    "word": "already",
+    "meaning": "已经，早已",
+    "example_sentence": "I have already finished my homework."
+  },
+  {
+    "id": 26,
+    "word": "although",
+    "meaning": "虽然，尽管",
+    "example_sentence": "Although it was raining, we went for a walk."
+  },
+  {
+    "id": 27,
+    "word": "amazing",
+    "meaning": "令人惊奇的，了不起的",
+    "example_sentence": "The view from the mountain top was amazing."
+  },
+  {
+    "id": 28,
+    "word": "amount",
+    "meaning": "数量，总计",
+    "example_sentence": "A large amount of money was donated to charity."
+  },
+  {
+    "id": 29,
+    "word": "ancient",
+    "meaning": "古代的，古老的",
+    "example_sentence": "We visited many ancient temples during our trip."
+  },
+  {
+    "id": 30,
+    "word": "animal",
+    "meaning": "动物，牲畜",
+    "example_sentence": "Lions are wild animals that live in Africa."
+  },
+  {
+    "id": 31,
+    "word": "announce",
+    "meaning": "宣布，通告",
+    "example_sentence": "The company will announce the results tomorrow."
+  },
+  {
+    "id": 32,
+    "word": "another",
+    "meaning": "另一个，又一个",
+    "example_sentence": "Would you like another cup of coffee?"
+  },
+  {
+    "id": 33,
+    "word": "answer",
+    "meaning": "回答，答案",
+    "example_sentence": "Please raise your hand if you know the answer."
+  },
+  {
+    "id": 34,
+    "word": "anxious",
+    "meaning": "焦虑的，渴望的",
+    "example_sentence": "She was anxious about the exam results."
+  },
+  {
+    "id": 35,
+    "word": "apartment",
+    "meaning": "公寓，套房",
+    "example_sentence": "They live in a small apartment downtown."
+  },
+  {
+    "id": 36,
+    "word": "appear",
+    "meaning": "出现，显得",
+    "example_sentence": "The sun appeared from behind the clouds."
+  },
+  {
+    "id": 37,
+    "word": "application",
+    "meaning": "申请，应用",
+    "example_sentence": "I submitted my job application yesterday."
+  },
+  {
+    "id": 38,
+    "word": "approach",
+    "meaning": "接近，方法",
+    "example_sentence": "We need a new approach to solve this problem."
+  },
+  {
+    "id": 39,
+    "word": "appropriate",
+    "meaning": "适当的，合适的",
+    "example_sentence": "Please wear appropriate clothes for the occasion."
+  },
+  {
+    "id": 40,
+    "word": "argument",
+    "meaning": "争论，论证",
+    "example_sentence": "They had a heated argument about politics."
+  },
+  {
+    "id": 41,
+    "word": "arrange",
+    "meaning": "安排，整理",
+    "example_sentence": "Can you arrange a meeting for next week?"
+  },
+  {
+    "id": 42,
+    "word": "article",
+    "meaning": "文章，物品",
+    "example_sentence": "I read an interesting article in the newspaper."
+  },
+  {
+    "id": 43,
+    "word": "artificial",
+    "meaning": "人工的，人造的",
+    "example_sentence": "Artificial intelligence is changing our world."
+  },
+  {
+    "id": 44,
+    "word": "artist",
+    "meaning": "艺术家，画家",
+    "example_sentence": "The artist painted a beautiful landscape."
+  },
+  {
+    "id": 45,
+    "word": "assume",
+    "meaning": "假设，承担",
+    "example_sentence": "I assume you have read the instructions."
+  },
+  {
+    "id": 46,
+    "word": "atmosphere",
+    "meaning": "大气，氛围",
+    "example_sentence": "The restaurant has a romantic atmosphere."
+  },
+  {
+    "id": 47,
+    "word": "attempt",
+    "meaning": "尝试，企图",
+    "example_sentence": "This is my first attempt at cooking Chinese food."
+  },
+  {
+    "id": 48,
+    "word": "attend",
+    "meaning": "参加，出席",
+    "example_sentence": "How many people will attend the conference?"
+  },
+  {
+    "id": 49,
+    "word": "attitude",
+    "meaning": "态度，看法",
+    "example_sentence": "He has a positive attitude towards life."
+  },
+  {
+    "id": 50,
+    "word": "attract",
+    "meaning": "吸引，引起",
+    "example_sentence": "The museum attracts thousands of visitors each year."
+  }
+]
